@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "A simple project with a single failing test",
   "scripts": {
-    "test": "mocha test/**/*spec.js"
+    "test": "mocha --watch test/**/*spec.js"
   },
   "dependencies": {
     "chai": "^4.1.2",
+    "date-fns": "^2.16.1",
     "mocha": "^4.0.1"
   }
 }

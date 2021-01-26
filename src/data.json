@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Lakewood",
+        "stars": 3,
+        "week": 110,
+        "weekPromo": 80,
+        "weekend": 90,
+        "weekendPromo": 80
+    },
+    {
+        "name": "Bridgewood",
+        "stars": 4,
+        "week": 160,
+        "weekPromo": 110,
+        "weekend": 60,
+        "weekendPromo": 50
+    },
+    {
+        "name": "Ridgewood",
+        "stars": 5,
+        "week": 220,
+        "weekPromo": 100,
+        "weekend": 150,
+        "weekendPromo": 40
+    }
+]
